@@ -47,8 +47,8 @@ As an eager-to-learn new grad, I am constantly expanding my homelab and technica
 
 I am actively seeking junior and new-grad opportunities in **Solutions Architecture, DevOps/SRE, and Embedded Systems**. If you are looking for a hungry builder who understands the full data pipeline, I'd love to chat.
 
-- 💼 **LinkedIn:** [www.linkedin.com/in/alyhussein31]
-- 📧 **Email:** [alymohameduc@hotmail.co.uk]
+- 💼 **LinkedIn:** www.linkedin.com/in/alyhussein31
+- 📧 **Email:** alymohameduc@hotmail.co.uk
 
 <br>
 
